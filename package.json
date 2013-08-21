@@ -1,0 +1,15 @@
+{
+  "name": "sthlmjs-videostream",
+  "version": "0.0.0",
+  "description": "Following [this example](http://delog.wordpress.com/2011/04/26/stream-live-webm-video-to-browser-using-node-js-and-gstreamer/)",
+  "main": "streamer.js",
+  "dependencies": {
+    "express": "~3.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
